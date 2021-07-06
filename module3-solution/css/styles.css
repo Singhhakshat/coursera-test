@@ -19,6 +19,9 @@ body {
   .navbar-brand a:hover, .navbar-brand a:focus{
       text-decoration: none;
   }
+  .navbar-header button{
+    margin-top: 15px;
+  }
   #nav-list a {
     color: #337ab7;
     font-weight: bold;
